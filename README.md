@@ -1,4 +1,3 @@
-UNMERGED BRANCH -CHANGES FROM OTHER SAMPLY TEAMS MISSING
 # JSF Bootstrap Message and Messages Renderer
 
 
